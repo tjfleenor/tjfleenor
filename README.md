@@ -1,24 +1,33 @@
 # Tyler Fleenor
 
-I work on phone repair and flashing tools — Unisoc/Spreadtrum devices, mtkclient, sprdflash. Currently exploring open-source mobile tooling and looking to contribute.
+Full-stack developer building SaaS products. TypeScript, Next.js, Go, PostgreSQL.
 
-## What I'm into
+## What I'm Building
 
-- **Unisoc/Spreadtrum flashing** — BootROM protocols, scatter files, partition layouts
-- **mtkclient** — MediaTek device communication, bootloader unlock, firmware extraction
-- **sprdflash** — Spreadtrum/Unisoc flashing utilities and protocols
-- **Open-source mobile tooling** — building and contributing to free alternatives to commercial phone repair software
+- **[SaaS Boilerplate](https://github.com/tjfleenor/saas-boilerplate)** — Production-ready Next.js starter with auth, multi-tenancy, Stripe billing, and CI/CD. Built to ship fast, not to tutorial.
+- **[Kern River Sweeps](https://github.com/tjfleenor/kern-river-sweeps)** — Sweepstakes casino platform: 17 games, Node RGS backend, shared balance console, Cordova Android shell.
 
-## Goals
+## Tech Stack
 
-- Contribute to open-source phone repair/flashing projects
-- Document Unisoc/Spreadtrum protocols and workflows
-- Build tools that make phone repair more accessible
+| Layer | Tools |
+|---|---|
+| Frontend | Next.js 14, React, TypeScript, Tailwind CSS, shadcn/ui |
+| Backend | Node.js, Go, Express, NextAuth.js |
+| Database | PostgreSQL, Prisma, Redis |
+| DevOps | Docker, GitHub Actions, Nginx, Cloudflare Workers |
+| Mobile | Cordova, Android APK |
+
+## What I'm Looking For
+
+- Full-stack or frontend roles at early-stage startups
+- SaaS products where I can own features end-to-end
+- Teams that value shipping over meetings
 
 ## Also
 
 - Python CLI tooling — see [music-organizer](https://github.com/tjfleenor/music-organizer)
+- Previously: mobile repair/flashing tools (Unisoc/Spreadtrum, mtkclient, sprdflash)
 
 ---
 
-Open to collaborating on mobile tooling, phone repair automation, and open-source flashing utilities.
+Open to opportunities. Let's build something people pay for.
